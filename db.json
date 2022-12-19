@@ -378,6 +378,116 @@
      ],
      "cart":[
       
-     ]
+     ],
+     "menscarousal": [  {
+      "id": 41,
+      "title": "Campus Sutra",
+      "color": "Black",
+      "gender": "Male",
+      "category": "Jacket",
+      "description": "Men Solid Bomber Jacket",
+      "price": "1249",
+      "rating": "3.9",
+      "image": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/10/23/81b33604-9e09-40c7-bcca-2e48e0dfa7aa1571822670368-1.jpg"
+    },
+    {
+      "id": 42,
+      "title": "HIGHLANDER",
+      "color": "Black",
+      "gender": "Male",
+      "category": "Jacket",
+      "description": "Men Padded Jacket",
+      "price": "1199",
+      "rating": "4",
+      "image": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15835932/2021/10/22/76522080-743c-48b3-8dc5-3b4a6b15d1cf1634909782241HIGHLANDERMenBlackColourblockedPufferJacket1.jpg"
+    },
+    {
+      "id": 43,
+      "title": "Domyos By Decathlon",
+      "color": "Black",
+      "gender": "Male",
+      "category": "Jacket",
+      "description": "Lightweight Training",
+      "price": "956",
+      "rating": "4.1",
+      "image": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/6/9/35c16521-1708-4c8d-9ea3-c67a1cea93a91623212921914-1.jpg"
+    },
+    {
+      "id": 44,
+      "title": "Campus Sutra",
+      "color": "Blue",
+      "gender": "Male",
+      "category": "Jacket",
+      "description": "Men Solid Varsity Jacket",
+      "price": "599",
+      "rating": "3.9",
+      "image": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/6996811/2018/7/23/2058ea63-57d1-461e-8f82-ab16617b39da1532339067981-Campus-Sutra-Full-Sleeve-Solid-Men-Jacket-6361532339067785-1.jpg"
+    },
+    {
+      "id": 45,
+      "title": "HIGHLANDER",
+      "color": "Blue",
+      "gender": "Male",
+      "category": "Jacket",
+      "description": "Men Solid Denim Jacket",
+      "price": "1159",
+      "rating": "4.6",
+      "image": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/10/26/e327db60-12a2-4d81-a404-a81ac8c1ed291572062812112-1.jpg"
+    },
+    {
+      "id": 46,
+      "title": "WRONG",
+      "color": "Blue",
+      "gender": "Male",
+      "category": "Jacket",
+      "description": "Men Slim Fit Bomber Jacket",
+      "price": "1999",
+      "rating": "4.8",
+      "image": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10187067/2019/10/22/34b7f065-33f9-4665-9015-1329eb1762ab1571725612018-WROGN-Men-Navy-Blue-Solid-Slim-Fit-Bomber-Jacket-15515717256-6.jpg"
+    },
+    {
+      "id": 47,
+      "title": "Yuuki",
+      "color": "Blue",
+      "gender": "Male",
+      "category": "Jacket",
+      "description": "Men Lightweight Sporty Jacket",
+      "price": "1299",
+      "rating": "3.9",
+      "image": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/16599628/2021/12/23/48241942-218b-4be6-a0ba-4da5fb9fbe461640258132026Jackets1.jpg"
+    },
+    {
+      "id": 48,
+      "title": "WRONG",
+      "color": "Brown",
+      "gender": "Male",
+      "category": "Jacket",
+      "description": "Men Solid Tailores Jacket",
+      "price": "2159",
+      "rating": "4.2",
+      "image": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/h_280,q_90,w_210/v1/assets/images/1845112/2020/1/29/36abaaf7-4ba3-4714-8e0d-84034313fe291580299535086-RDSTR-Men-Brown-Solid-Biker-Jacket-1791580299532304-1.jpg"
+    },
+    {
+      "id": 49,
+      "title": "HIGHLANDER",
+      "color": "Brown",
+      "gender": "Male",
+      "category": "Jacket",
+      "description": "Men Solid Bomber Jacket",
+      "price": "1239",
+      "rating": "3.8",
+      "image": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/h_280,q_90,w_210/v1/assets/images/productimage/2019/11/22/fa4acb33-cd26-478a-b10a-356e802ac6951574420102977-1.jpg"
+    },
+    {
+      "id": 50,
+      "title": "HIGHLANDER",
+      "color": "Brown",
+      "gender": "Male",
+      "category": "Jacket",
+      "description": "Men Solid Biker Jacket",
+      "price": "1639",
+      "rating": "4.3",
+      "image": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10773542/2020/11/18/bf554e45-d9e9-488f-b003-1d870a2218131605695911454HIGHLANDERMenBrownSolidBikerJacket1.jpg"
+    }]
     
 }
