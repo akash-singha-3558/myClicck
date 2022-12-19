@@ -488,6 +488,26 @@
       "price": "1639",
       "rating": "4.3",
       "image": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10773542/2020/11/18/bf554e45-d9e9-488f-b003-1d870a2218131605695911454HIGHLANDERMenBrownSolidBikerJacket1.jpg"
-    }]
+    }],
+    "mytheresaMENScAROUSAL":[
+      {"image":"https://img.mytheresa.com/420/475/95/jpeg/catalog/product/13/P00777806.jpg","title":"GIVENCHY","price":"2,229"},
+     { "image":"https://img.mytheresa.com/420/475/95/jpeg/catalog/product/93/P00737482.jpg","title":"GUCCI","price":"2,775"},
+     {"image": "https://img.mytheresa.com/420/475/95/jpeg/catalog/product/0e/P00734044.jpg","title":"CHRISTIAN LOBOUTIN","price":"839"},
+    {"image":"https://img.mytheresa.com/420/475/95/jpeg/catalog/product/a7/P00737670.jpg","title":"GUCCI","price":"379"},
+     {"image":"https://img.mytheresa.com/420/475/95/jpeg/catalog/product/a4/P00726570.jpg","title":"GIORGIO ARMANY","price":"835"},
+     {"image":"https://img.mytheresa.com/420/475/95/jpeg/catalog/product/ca/P00734285.jpg","title":"VALENTINO","price":"2,355"},
+     {"image":"https://img.mytheresa.com/420/475/95/jpeg/catalog/product/b2/P00706286.jpg","title":"OUR LEGACY","price":"1,515"},
+    {"image":"https://img.mytheresa.com/420/475/95/jpeg/catalog/product/2c/P00689123.jpg","title":"VALENTINO GARVANI","price":"730"},
+    {"image": "https://img.mytheresa.com/420/475/95/jpeg/catalog/product/4c/P00748974.jpg","title":"THOM SWENNEY","price":"1,845"},
+    {"image":"https://img.mytheresa.com/420/475/95/jpeg/catalog/product/6b/P00745661.jpg","title":"GIVENCHY","price":"2,940"},
+    {"image": "https://img.mytheresa.com/420/475/95/jpeg/catalog/product/39/P00770930.jpg","title":"BRUNELLO CUCINELLI","price":"799"},
+    {"image":"https://img.mytheresa.com/420/475/95/jpeg/catalog/product/d3/P00738270.jpg","title":"GUCCI","price":"345"},
+     {"image": "https://img.mytheresa.com/420/475/95/jpeg/catalog/product/56/P00737581.jpg","title":"VOTTEGA VENETA","price":"675"},
+    {"image":"https://img.mytheresa.com/420/475/95/jpeg/catalog/product/1a/P00739363.jpg","title":"BURBERRY","price":"2,265"},
+      {"image":"https://img.mytheresa.com/420/475/95/jpeg/catalog/product/6e/P00737614.jpg","title":"GUCCI","price":"749"},
+      {"image":"https://img.mytheresa.com/420/475/95/jpeg/catalog/product/4e/P00688473.jpg","title":"BOTTEGA VENETA","price":"3,785"},
+      {"image":"https://img.mytheresa.com/420/475/95/jpeg/catalog/product/70/P00737496.jpg","title":"GUCCI","price":"925"},
+      {"image":"https://img.mytheresa.com/420/475/95/jpeg/catalog/product/fa/P00745712.jpg","title":"ALEXANDER MCQUEEN","price":"2,009"}
+     ]
     
 }
