@@ -508,6 +508,15 @@
       {"image":"https://img.mytheresa.com/420/475/95/jpeg/catalog/product/4e/P00688473.jpg","title":"BOTTEGA VENETA","price":"3,785"},
       {"image":"https://img.mytheresa.com/420/475/95/jpeg/catalog/product/70/P00737496.jpg","title":"GUCCI","price":"925"},
       {"image":"https://img.mytheresa.com/420/475/95/jpeg/catalog/product/fa/P00745712.jpg","title":"ALEXANDER MCQUEEN","price":"2,009"}
+     ],
+     "admin":[
+      {
+         "firstname": "Akash",
+         "lastname": "Singha",
+         "email": "aks@gmail.com",
+         "password": "aks@gmail.com",
+         "id": 1
+       }
      ]
     
 }
