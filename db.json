@@ -518,6 +518,152 @@
          "id": 1
        }
      ],
-     "flipkart-Cart":[]
+     "flipkart-Cart":[],
+     "mobiles": [
+      {
+        "img": "https://rukminim1.flixcart.com/image/312/312/l0fm07k0/mobile/8/9/n/-original-imagc7tmhcbrarpk.jpeg?q=70",
+        "title": "POCO M4 Pro (Cool Blue, 128 GB)",
+        "price": "₹11,999",
+        "discount": "40% off",
+        "sells_price": "₹19,999",
+        "ratings": "4.3",
+        "desc": {
+          "storage": "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+          "display": "16.33 cm (6.43 inch) Full HD+ AMOLED Display",
+          "camera": "64MP + 8MP + 2MP | 16MP Front Camera",
+          "battery": "5000 mAh Lithium-ion Polymer Battery",
+          "processor": "Mediatek Helio G96 Processor",
+          "warranty": "One Year for Handset, 6 Months for Accessories"
+        }
+      },
+      {
+        "img": "https://rukminim1.flixcart.com/image/312/312/l0fm07k0/mobile/r/2/1/-original-imagc7tduryuaynx.jpeg?q=70",
+        "title": "POCO M4 Pro (Power Black, 128 GB)",
+        "price": "₹11,999",
+        "discount": "40% off",
+        "sells_price": "₹19,999",
+        "ratings": "4.3",
+        "desc": {
+          "storage": "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+          "display": "16.33 cm (6.43 inch) Full HD+ AMOLED Display",
+          "camera": "64MP + 8MP + 2MP | 16MP Front Camera",
+          "battery": "5000 mAh Lithium-ion Polymer Battery",
+          "processor": "Mediatek Helio G96 Processor",
+          "warranty": "One Year for Handset, 6 Months for Accessories"
+        }
+      },
+      {
+        "img": "https://rukminim1.flixcart.com/image/312/312/l0fm07k0/mobile/8/9/n/-original-imagc7tmhcbrarpk.jpeg?q=70",
+        "title": "POCO M4 Pro (Cool Blue, 64 GB)",
+        "price": "₹10,999",
+        "discount": "38% off",
+        "sells_price": "₹17,999",
+        "ratings": "4.3",
+        "desc": {
+          "storage": "6 GB RAM | 64 GB ROM | Expandable Upto 1 TB",
+          "display": "16.33 cm (6.43 inch) Full HD+ AMOLED Display",
+          "camera": "64MP + 8MP + 2MP | 16MP Front Camera",
+          "battery": "5000 mAh Lithium-ion Polymer Battery",
+          "processor": "Mediatek Helio G96 Processor",
+          "warranty": "One Year for Handset, 6 Months for Accessories"
+        }
+      },
+      {
+        "img": "https://rukminim1.flixcart.com/image/312/312/l0fm07k0/mobile/8/9/n/-original-imagc7tmhcbrarpk.jpeg?q=70",
+        "title": "POCO M4 Pro (Cool Blue, 128 GB)",
+        "price": "₹13,999",
+        "discount": "36% off",
+        "sells_price": "₹21,999",
+        "ratings": "4.3",
+        "desc": {
+          "storage": "8 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+          "display": "16.33 cm (6.43 inch) Full HD+ AMOLED Display",
+          "camera": "64MP + 8MP + 2MP | 16MP Front Camera",
+          "battery": "5000 mAh Lithium-ion Polymer Battery",
+          "processor": "Mediatek Helio G96 Processor",
+          "warranty": "One Year for Handset, 6 Months for Accessories"
+        }
+      },
+      {
+        "img": "https://rukminim1.flixcart.com/image/312/312/l0fm07k0/mobile/a/6/b/-original-imagc7tdwfp2gz4h.jpeg?q=70",
+        "title": "POCO M4 Pro (Yellow, 128 GB)",
+        "price": "₹11,999",
+        "discount": "40% off",
+        "sells_price": "₹19,999",
+        "ratings": "4.3",
+        "desc": {
+          "storage": "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+          "display": "16.33 cm (6.43 inch) Full HD+ AMOLED Display",
+          "camera": "64MP + 8MP + 2MP | 16MP Front Camera",
+          "battery": "5000 mAh Lithium-ion Polymer Battery",
+          "processor": "Mediatek Helio G96 Processor",
+          "warranty": "One Year for Handset, 6 Months for Accessories"
+        }
+      },
+      {
+        "img": "https://rukminim1.flixcart.com/image/312/312/l0fm07k0/mobile/r/2/1/-original-imagc7tduryuaynx.jpeg?q=70",
+        "title": "POCO M4 Pro (Power Black, 128 GB)",
+        "price": "₹13,999",
+        "discount": "36% off",
+        "sells_price": "₹21,999",
+        "ratings": "4.3",
+        "desc": {
+          "storage": "8 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+          "display": "16.33 cm (6.43 inch) Full HD+ AMOLED Display",
+          "camera": "64MP + 8MP + 2MP | 16MP Front Camera",
+          "battery": "5000 mAh Lithium-ion Polymer Battery",
+          "processor": "Mediatek Helio G96 Processor",
+          "warranty": "One Year for Handset, 6 Months for Accessories"
+        }
+      },
+      {
+        "img": "https://rukminim1.flixcart.com/image/312/312/l0fm07k0/mobile/r/2/1/-original-imagc7tduryuaynx.jpeg?q=70",
+        "title": "POCO M4 Pro (Power Black, 64 GB)",
+        "price": "₹10,999",
+        "discount": "38% off",
+        "sells_price": "₹17,999",
+        "ratings": "4.3",
+        "desc": {
+          "storage": "6 GB RAM | 64 GB ROM | Expandable Upto 1 TB",
+          "display": "16.33 cm (6.43 inch) Full HD+ AMOLED Display",
+          "camera": "64MP + 8MP + 2MP | 16MP Front Camera",
+          "battery": "5000 mAh Lithium-ion Polymer Battery",
+          "processor": "Mediatek Helio G96 Processor",
+          "warranty": "One Year for Handset, 6 Months for Accessories"
+        }
+      },
+      {
+        "img": "https://rukminim1.flixcart.com/image/312/312/l0fm07k0/mobile/a/6/b/-original-imagc7tdwfp2gz4h.jpeg?q=70",
+        "title": "POCO M4 Pro (Yellow, 64 GB)",
+        "price": "₹10,999",
+        "discount": "38% off",
+        "sells_price": "₹17,999",
+        "ratings": "4.3",
+        "desc": {
+          "storage": "6 GB RAM | 64 GB ROM | Expandable Upto 1 TB",
+          "display": "16.33 cm (6.43 inch) Full HD+ AMOLED Display",
+          "camera": "64MP + 8MP + 2MP | 16MP Front Camera",
+          "battery": "5000 mAh Lithium-ion Polymer Battery",
+          "processor": "Mediatek Helio G96 Processor",
+          "warranty": "One Year for Handset, 6 Months for Accessories"
+        }
+      },
+      {
+        "img": "https://rukminim1.flixcart.com/image/312/312/l0fm07k0/mobile/a/6/b/-original-imagc7tdwfp2gz4h.jpeg?q=70",
+        "title": "POCO M4 Pro (Yellow, 128 GB)",
+        "price": "₹13,999",
+        "discount": "36% off",
+        "sells_price": "₹21,999",
+        "ratings": "4.3",
+        "desc": {
+          "storage": "8 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+          "display": "16.33 cm (6.43 inch) Full HD+ AMOLED Display",
+          "camera": "64MP + 8MP + 2MP | 16MP Front Camera",
+          "battery": "5000 mAh Lithium-ion Polymer Battery",
+          "processor": "Mediatek Helio G96 Processor",
+          "warranty": "One Year for Handset, 6 Months for Accessories"
+        }
+      }
+    ]
     
 }
