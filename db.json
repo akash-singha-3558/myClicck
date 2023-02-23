@@ -1288,7 +1288,15 @@
        "usersData":[
 
        ]
-       
+       ,"admin": [
+        {
+          "name": "Admin",
+          "password": "admin",
+          "email": "admin@indiwebmall.com",
+          "mobile": "7896356273",
+          "gender": "Male"
+        }
+      ]
     
     
 }
