@@ -1286,44 +1286,135 @@
         }
        ],
        "usersData":[
-
-       ]
-       ,"adminMacMatch": [{
-        "name": "Kausik",
-        "email": "k@gmail.com",
-        "password": "1234",
-        "mobile": "7635198460",
+        {
+          "name": "Kausik",
+          "email": "k@gmail.com",
+          "password": "1234",
+          "mobile": "7635198460",
+          "gender": "Male",
+          "profile": "https://loopinfosol.in/themeforest/ekka-html-v33/ekka-admin/assets/img/vendor/u1.jpg",
+          "id": 1,
+          "orders": [],
+        "carts":[]
+      },
+      {
+          "name": "Akash",
+          "email": "a@gmail.com",
+          "password": "1234",
+          "mobile": "8635198460",
+          "gender": "Male",
+          "profile": "https://avatars.githubusercontent.com/u/112806398?v=4",
+          "id": 2,
+          "orders": [],
+        "carts":[]
+      },
+      {
+          "name": "Namrata",
+          "email": "n@gmail.com",
+          "password": "1234",
+          "mobile": "9635198460",
+          "gender": "Female",
+          "profile": "https://avatars.githubusercontent.com/u/112812835?v=4",
+          "id": 3,
+          "orders": [],
+        "carts":[]
+      },
+      {
+          "name": "Somesh",
+          "email": "s@gmail.com",
+          "password": "1234",
+          "mobile": "8335198460",
+          "gender": "Male",
+          "profile": "https://loopinfosol.in/themeforest/ekka-html-v33/ekka-admin/assets/img/vendor/u1.jpg",
+          "id": 4,
+          "orders": [],
+        "carts":[]
+      },
+      {
+        "id": 50,
+        "title": "Apple Lightning Headphone Jack Adapter",
+        "category": "Accessorires",
+        "img": "https://m.media-amazon.com/images/I/41C5VPNqasL._AC_UY327_FMwebp_QL65_.jpg",
+        "price": 10340,
+        "rating": 4.2,
+        "cartStatus":false,
+        "description":"Well-designed cases, covers, screen overlays, watch bands, camera attachments, and Bluetooth accessories, complement Apple devices without interfering with their operation. As you create accessories for Apple products, follow the design guidelines and test your prototypes to make sure they meet the necessary requirements.",
+        "orders": [],
+        "carts":[]
+      },
+      {
+        "id": 51,
+        "title": "Apple Phone Pandit",
+        "category": "Accessorires",
+        "img": "https://m.media-amazon.com/images/I/41QwQK11UpL._AC_UY327_FMwebp_QL65_.jpg",
+        "price": 106342,
+        "rating": 4.6,
+        "cartStatus":false,
+        "description":"Well-designed cases, covers, screen overlays, watch bands, camera attachments, and Bluetooth accessories, complement Apple devices without interfering with their operation. As you create accessories for Apple products, follow the design guidelines and test your prototypes to make sure they meet the necessary requirements.",
+        "orders": [],
+        "carts":[]
+      },
+      {
+        "id": 52,
+        "title": "Apple Phone pro",
+        "category": "Accessorires",
+        "img": "https://images-eu.ssl-images-amazon.com/images/I/815KnP2wjDS._AC_UL160_SR160,160_.jpg",
+        "price": 143342,
+        "rating": 4.8,
+        "cartStatus":false,
+        "description":"Well-designed cases, covers, screen overlays, watch bands, camera attachments, and Bluetooth accessories, complement Apple devices without interfering with their operation. As you create accessories for Apple products, follow the design guidelines and test your prototypes to make sure they meet the necessary requirements.",
+        "orders": [],
+        "carts":[]
+      },{
+        "id": 1,
+        "name": "Rajesh Thakur",
+        "email": "rajesh@gmail.com",
+        "password": "rajesh@123",
         "gender": "Male",
-        "profile": "https://avatars.githubusercontent.com/u/106387298?v=4",
-        "id": 1
-    },
-    {
-        "name": "Akash",
-        "email": "a@gmail.com",
-        "password": "1234",
-        "mobile": "8635198460",
-        "gender": "Male",
-        "profile": "https://avatars.githubusercontent.com/u/112806398?v=4",
-        "id": 2
-    },
-    {
-        "name": "Namrata",
-        "email": "n@gmail.com",
-        "password": "1234",
-        "mobile": "9635198460",
+        "mobile": "8541278962",
+        "profile": "https://loopinfosol.in/themeforest/ekka-html-v33/ekka-admin/assets/img/vendor/u1.jpg",
+        "orders": [],
+        "carts":[]
+      },
+      {
+        "id": 2,
+        "name": "Priya Kumari",
+        "email": "priya@gmail.com",
+        "password": "priya@123",
         "gender": "Female",
-        "profile": "https://avatars.githubusercontent.com/u/112812835?v=4",
-        "id": 3
-    },
-    {
-        "name": "Somesh",
-        "email": "s@gmail.com",
-        "password": "1234",
-        "mobile": "8335198460",
+        "mobile": "8541278912",
+        "profile": "https://loopinfosol.in/themeforest/ekka-html-v33/ekka-admin/assets/img/vendor/u5.jpg",
+        "orders": [],
+        "carts":[]
+      },
+      {
+        "id": 3,
+        "name": "Himanshu",
+        "email": "himansu@gmail.com",
+        "password": "himanshu@123",
         "gender": "Male",
-        "profile": "https://avatars.githubusercontent.com/u/112800148?v=4",
-        "id": 4
-    }]
+        "mobile": "8541278911",
+        "profile": "https://loopinfosol.in/themeforest/ekka-html-v33/ekka-admin/assets/img/vendor/u1.jpg",
+        "orders": [],
+        "carts":[]
+      }  
+       ]
+
+
+
+
+
+
+
+       ,"adminMacMatch": [
+        {
+          "name": "Admin",
+          "password": "admin",
+          "email": "admin@indiwebmall.com",
+          "mobile": "7896356273",
+          "gender": "Male"
+        }
+      ]
     
     
 }
