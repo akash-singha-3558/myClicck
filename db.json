@@ -677,6 +677,7 @@
            "img": "https://www.apple.com/v/macbook-air/o/images/overview/hero_mba_m2__ejbs627dj7ee_large.jpg",
            "price": 99900,
            "rating": 3.9,
+           "quantity":1,
            "cartStatus":false,
            "description": "Apple 2020 MacBook Air Laptop M1 chip, 13.3-inch/33.74 cm Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, FaceTime HD Camera, Touch ID. Works with iPhone/iPad; Space Grey"
          },
@@ -1252,6 +1253,15 @@
 
 
        ],
+
+
+
+
+
+
+
+
+
        "orders":[
 
 
@@ -1263,6 +1273,7 @@
           "img": "https://m.media-amazon.com/images/I/51z-CilKrzL._AC_UY327_FMwebp_QL65_.jpg",
           "price": 1340,
           "rating": 4.1,
+          "payment":true,
           "qantity":1,
           "cartStatus":true,
           "description":"Well-designed cases, covers, screen overlays, watch bands, camera attachments, and Bluetooth accessories, complement Apple devices without interfering with their operation. As you create accessories for Apple products, follow the design guidelines and test your prototypes to make sure they meet the necessary requirements."
@@ -1274,6 +1285,7 @@
           "img": "https://m.media-amazon.com/images/I/41C5VPNqasL._AC_UY327_FMwebp_QL65_.jpg",
           "price": 10340,
           "rating": 4.2,
+          "payment":false,
           "qantity":1,
           "cartStatus":true,
           "description":"Well-designed cases, covers, screen overlays, watch bands, camera attachments, and Bluetooth accessories, complement Apple devices without interfering with their operation. As you create accessories for Apple products, follow the design guidelines and test your prototypes to make sure they meet the necessary requirements."
@@ -1285,6 +1297,7 @@
           "img": "https://m.media-amazon.com/images/I/41QwQK11UpL._AC_UY327_FMwebp_QL65_.jpg",
           "price": 106342,
           "rating": 4.6,
+          "payment":true,
           "qantity":1,
           "cartStatus":true,
           "description":"Well-designed cases, covers, screen overlays, watch bands, camera attachments, and Bluetooth accessories, complement Apple devices without interfering with their operation. As you create accessories for Apple products, follow the design guidelines and test your prototypes to make sure they meet the necessary requirements."
@@ -1296,11 +1309,297 @@
           "img": "https://images-eu.ssl-images-amazon.com/images/I/815KnP2wjDS._AC_UL160_SR160,160_.jpg",
           "price": 143342,
           "rating": 4.8,
+          "payment":false,
           "qantity":1,
           "cartStatus":true,
           "description":"Well-designed cases, covers, screen overlays, watch bands, camera attachments, and Bluetooth accessories, complement Apple devices without interfering with their operation. As you create accessories for Apple products, follow the design guidelines and test your prototypes to make sure they meet the necessary requirements."
+        },
+        {
+          "id": 21,
+          "title": "Apple Watch Series 8",
+          "category": "Watch",
+          "img": "https://m.media-amazon.com/images/I/71FeKU41G1L._AC_UY327_FMwebp_QL65_.jpg",
+          "price": 55899,
+          "rating": 4.4,
+          "payment":true,
+          "quantity":1,
+          "cartStatus":false,
+          "description":"Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking, health-oriented capabilities, and wireless telecommunication, and integrates with iOS and other Apple products and services. The Apple Watch was released in April 2015,[18][19] and quickly became the best-selling wearable device: 4.2 million were sold in the second quarter of fiscal 2015,[20] and more than 101 million people were estimated to use an Apple Watch as of December 2020.[21] Apple has introduced a new generation of the Apple Watch with improved internal components each September[22]—each labeled by Apple as a 'Series', with certain exceptions."
+        },
+        {
+          "id": 22,
+          "title": "Apple Watch Series 7",
+          "category": "Watch",
+          "img": "https://m.media-amazon.com/images/I/71uOgDy40BL._AC_UY327_FMwebp_QL65_.jpg",
+          "price": 43605,
+          "rating": 4.3,
+          "payment":false,
+          "quantity":1,
+          "cartStatus":false,
+          "description":"Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking, health-oriented capabilities, and wireless telecommunication, and integrates with iOS and other Apple products and services. The Apple Watch was released in April 2015,[18][19] and quickly became the best-selling wearable device: 4.2 million were sold in the second quarter of fiscal 2015,[20] and more than 101 million people were estimated to use an Apple Watch as of December 2020.[21] Apple has introduced a new generation of the Apple Watch with improved internal components each September[22]—each labeled by Apple as a 'Series', with certain exceptions."
+        },
+        {
+          "id": 23,
+          "title": "Apple Watch SE",
+          "category": "Watch",
+          "img": "https://m.media-amazon.com/images/I/71YAsNWuoPL._AC_UY327_FMwebp_QL65_.jpg",
+          "price": 33899,
+          "rating": 4.2,
+          "payment":true,
+          "quantity":1,
+          "cartStatus":false,
+          "description":"Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking, health-oriented capabilities, and wireless telecommunication, and integrates with iOS and other Apple products and services. The Apple Watch was released in April 2015,[18][19] and quickly became the best-selling wearable device: 4.2 million were sold in the second quarter of fiscal 2015,[20] and more than 101 million people were estimated to use an Apple Watch as of December 2020.[21] Apple has introduced a new generation of the Apple Watch with improved internal components each September[22]—each labeled by Apple as a 'Series', with certain exceptions."
+        },
+        {
+          "id": 24,
+          "title": "Apple Watch SE (2nd Gen)",
+          "category": "Watch",
+          "img": "https://m.media-amazon.com/images/I/71yofUBMxSL._AC_UY327_FMwebp_QL65_.jpg",
+          "price": 26400,
+          "rating": 4.1,
+          "payment":false,
+          "quantity":1,
+          "cartStatus":false,
+          "description":"Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking, health-oriented capabilities, and wireless telecommunication, and integrates with iOS and other Apple products and services. The Apple Watch was released in April 2015,[18][19] and quickly became the best-selling wearable device: 4.2 million were sold in the second quarter of fiscal 2015,[20] and more than 101 million people were estimated to use an Apple Watch as of December 2020.[21] Apple has introduced a new generation of the Apple Watch with improved internal components each September[22]—each labeled by Apple as a 'Series', with certain exceptions."
+        },
+        {
+          "id": 25,
+          "title": "Apple Watch Ultra",
+          "category": "Watch",
+          "img": "https://m.media-amazon.com/images/I/91z5KuonXrL._AC_UY327_FMwebp_QL65_.jpg",
+          "price": 290400,
+          "rating": 4.8,
+          "payment":true,
+          "quantity":1,
+          "cartStatus":false,
+          "description":"Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking, health-oriented capabilities, and wireless telecommunication, and integrates with iOS and other Apple products and services. The Apple Watch was released in April 2015,[18][19] and quickly became the best-selling wearable device: 4.2 million were sold in the second quarter of fiscal 2015,[20] and more than 101 million people were estimated to use an Apple Watch as of December 2020.[21] Apple has introduced a new generation of the Apple Watch with improved internal components each September[22]—each labeled by Apple as a 'Series', with certain exceptions."
+        },
+        {
+          "id": 26,
+          "title": "PLATINUM Luxury Apple Watch",
+          "category": "Watch",
+          "img": "https://m.media-amazon.com/images/I/51LB6PK3GoL._AC_UY327_FMwebp_QL65_.jpg",
+          "price": 10400,
+          "rating": 3.8,
+          "payment":false,
+          "quantity":1,
+          "cartStatus":false,
+          "description":"Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking, health-oriented capabilities, and wireless telecommunication, and integrates with iOS and other Apple products and services. The Apple Watch was released in April 2015,[18][19] and quickly became the best-selling wearable device: 4.2 million were sold in the second quarter of fiscal 2015,[20] and more than 101 million people were estimated to use an Apple Watch as of December 2020.[21] Apple has introduced a new generation of the Apple Watch with improved internal components each September[22]—each labeled by Apple as a 'Series', with certain exceptions."
+        },
+        {
+          "id": 27,
+          "title": "Apple Watch Series 8",
+          "category": "Watch",
+          "img": "https://m.media-amazon.com/images/I/71XMTLtZd5L._AC_UY327_FMwebp_QL65_.jpg",
+          "price": 91400,
+          "rating": 3.9,
+          "payment":true,
+          "quantity":1,
+          "cartStatus":false,
+          "description":"Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking, health-oriented capabilities, and wireless telecommunication, and integrates with iOS and other Apple products and services. The Apple Watch was released in April 2015,[18][19] and quickly became the best-selling wearable device: 4.2 million were sold in the second quarter of fiscal 2015,[20] and more than 101 million people were estimated to use an Apple Watch as of December 2020.[21] Apple has introduced a new generation of the Apple Watch with improved internal components each September[22]—each labeled by Apple as a 'Series', with certain exceptions."
+        },
+        {
+          "id": 28,
+          "title": "Apple AirPods",
+          "category": "Airpods",
+          "img": "https://m.media-amazon.com/images/I/7120GgUKj3L._AC_UY327_FMwebp_QL65_.jpg",
+          "price": 11999,
+          "rating": 3.9,
+          "payment":false,
+          "quantity":1,
+          "cartStatus":false,
+          "description":"AirPods are wireless Bluetooth earbuds designed by Apple Inc. They were first announced on September 7, 2016, alongside the iPhone 7. Within two years, they became Apple's most popular accessory.[4][5] The most recent model, AirPods (3rd generation), are a replacement to the 1st and 2nd generation models, although the 2nd generation is still sold on Apple's website. These models are Apple's entry-level wireless headphones, sold alongside the AirPods Pro and AirPods Max"
+          
+        },
+        {
+          "id": 29,
+          "title": "Apple AirPods Pro",
+          "category": "Airpods",
+          "img": "https://m.media-amazon.com/images/I/61SUj2aKoEL._AC_UY327_FMwebp_QL65_.jpg",
+          "price": 26900,
+          "rating": 3.9,
+          "payment":false,
+          "quantity":1,
+          "cartStatus":false,
+          "description":"AirPods are wireless Bluetooth earbuds designed by Apple Inc. They were first announced on September 7, 2016, alongside the iPhone 7. Within two years, they became Apple's most popular accessory.[4][5] The most recent model, AirPods (3rd generation), are a replacement to the 1st and 2nd generation models, although the 2nd generation is still sold on Apple's website. These models are Apple's entry-level wireless headphones, sold alongside the AirPods Pro and AirPods Max"
+        },
+        {
+          "id": 30,
+          "title": "Apple in-Ear Wired EarPods",
+          "category": "Airpods",
+          "img": "https://m.media-amazon.com/images/I/418AP8pw3KL._AC_UY327_FMwebp_QL65_.jpg",
+          "price": 6900,
+          "rating": 4.1,
+          "payment":true,
+          "quantity":1,
+          "cartStatus":false,
+          "description":"AirPods are wireless Bluetooth earbuds designed by Apple Inc. They were first announced on September 7, 2016, alongside the iPhone 7. Within two years, they became Apple's most popular accessory.[4][5] The most recent model, AirPods (3rd generation), are a replacement to the 1st and 2nd generation models, although the 2nd generation is still sold on Apple's website. These models are Apple's entry-level wireless headphones, sold alongside the AirPods Pro and AirPods Max"
+        },
+        {
+          "id": 31,
+          "title": "Apple AirPods pro connect",
+          "category": "Airpods",
+          "img": "https://m.media-amazon.com/images/I/31Eamp1KvHL._AC_UY327_FMwebp_QL65_.jpg",
+          "price": 61900,
+          "rating": 3.9,
+          "payment":true,
+          "quantity":1,
+          "cartStatus":false,
+          "description":"AirPods are wireless Bluetooth earbuds designed by Apple Inc. They were first announced on September 7, 2016, alongside the iPhone 7. Within two years, they became Apple's most popular accessory.[4][5] The most recent model, AirPods (3rd generation), are a replacement to the 1st and 2nd generation models, although the 2nd generation is still sold on Apple's website. These models are Apple's entry-level wireless headphones, sold alongside the AirPods Pro and AirPods Max"
+        },
+        {
+          "id": 32,
+          "title": "Apple AirPods max",
+          "category": "Airpods",
+          "img": "https://m.media-amazon.com/images/I/61CVih3UpdL._AC_UY327_FMwebp_QL65_.jpg",
+          "price": 62900,
+          "rating": 4.1,
+          "payment":false,
+          "quantity":1,
+          "cartStatus":false,
+          "description":"AirPods are wireless Bluetooth earbuds designed by Apple Inc. They were first announced on September 7, 2016, alongside the iPhone 7. Within two years, they became Apple's most popular accessory.[4][5] The most recent model, AirPods (3rd generation), are a replacement to the 1st and 2nd generation models, although the 2nd generation is still sold on Apple's website. These models are Apple's entry-level wireless headphones, sold alongside the AirPods Pro and AirPods Max"
+        },
+        {
+          "id": 33,
+          "title": "Apple Wireless buds",
+          "category": "Airpods",
+          "img": "https://m.media-amazon.com/images/I/51YAZhd080L._AC_UY327_QL65_.jpg",
+          "price": 22900,
+          "rating": 4.2,
+          "payment":true,
+          "quantity":1,
+          "cartStatus":false,
+          "description":"AirPods are wireless Bluetooth earbuds designed by Apple Inc. They were first announced on September 7, 2016, alongside the iPhone 7. Within two years, they became Apple's most popular accessory.[4][5] The most recent model, AirPods (3rd generation), are a replacement to the 1st and 2nd generation models, although the 2nd generation is still sold on Apple's website. These models are Apple's entry-level wireless headphones, sold alongside the AirPods Pro and AirPods Max"
+        },
+        {
+          "id": 34,
+          "title": "Apple Pro Display XDR",
+          "category": "Tv & Home",
+          "img": "https://m.media-amazon.com/images/I/71pEQi2sX3L._AC_UY327_FMwebp_QL65_.jpg",
+          "price": 523376,
+          "rating": 4.3,
+          "payment":false,
+          "quantity":1,
+          "cartStatus":false,
+          "description":"Apple TV is a digital media player and microconsole developed and marketed by Apple Inc. It is a small network appliance hardware that plays received media data such as video and audio to a television set or external display."
+        },
+        {
+          "id": 35,
+          "title": "Buy Apple TV 4K",
+          "category": "Tv & Home",
+          "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/apple-tv-4k-hero-select-202210?wid=538&hei=535&fmt=jpeg&qlt=95&.v=1664896361408",
+          "price": 583376,
+          "rating": 4.4,
+          "payment":true,
+          "quantity":1,
+          "cartStatus":false,
+          "description":"Apple TV is a digital media player and microconsole developed and marketed by Apple Inc. It is a small network appliance hardware that plays received media data such as video and audio to a television set or external display."
+        },
+        {
+          "id": 36,
+          "title": "Apple 2021 iMac with 4.5K Retina Display",
+          "category": "Tv & Home",
+          "img": "https://m.media-amazon.com/images/I/61AWSyzWrmS._AC_UY327_FMwebp_QL65_.jpg",
+          "price": 104990,
+          "rating": 4.6,
+          "payment":false,
+          "quantity":1,
+          "cartStatus":false,
+          "description":"Apple TV is a digital media player and microconsole developed and marketed by Apple Inc. It is a small network appliance hardware that plays received media data such as video and audio to a television set or external display."
+        },
+        {
+          "id": 37,
+          "title": "Apple Retina Display",
+          "category": "Tv & Home",
+          "img": "https://m.media-amazon.com/images/I/61LNnZPoKPS._AC_UY327_FMwebp_QL65_.jpg",
+          "price": 174990,
+          "rating": 3.9,
+          "payment":true,
+          "quantity":1,
+          "cartStatus":false,
+          "description":"Apple TV is a digital media player and microconsole developed and marketed by Apple Inc. It is a small network appliance hardware that plays received media data such as video and audio to a television set or external display."
+        },
+        {
+          "id": 38,
+          "title": "Apple Lightning to USB Cable",
+          "category": "Entertainment",
+          "img": "https://m.media-amazon.com/images/I/51hhaBx5PCL._AC_UY327_FMwebp_QL65_.jpg",
+          "price": 1990,
+          "rating": 4.5,
+          "payment":true,
+          "quantity":1,
+          "cartStatus":false,
+          "description":"Apps like ShareTheMeal, FaceTime, and Wakeout! inspired people to give back, stay in touch with loved ones, and take care of themselves. Ted lassoed the hearts of Apple TV+ viewers with his unremitting positive attitude, while Tom Hanks guided them through choppy waters in “Greyhound,” and Apple Music fans searched for the “Dance Monkey” lyrics while watching their favorite artists livestream from their homes. There were podcasts like “SmartLess” and NPR’s “Code Switch” to binge, Apple Arcade games like “Sneaky Sasquatch” to play, and a new favorite Apple Fitness+ workout waiting to be discovered."
+        },
+        {
+          "id": 39,
+          "title": "Apple Blossoms One Size Pocket Style",
+          "category": "Entertainment",
+          "img": "https://m.media-amazon.com/images/I/41TRkSqp4xL._AC_UY327_FMwebp_QL65_.jpg",
+          "price": 18990,
+          "rating": 4.5,
+          "payment":false,
+          "quantity":1,
+          "cartStatus":false,
+          "description":"Apps like ShareTheMeal, FaceTime, and Wakeout! inspired people to give back, stay in touch with loved ones, and take care of themselves. Ted lassoed the hearts of Apple TV+ viewers with his unremitting positive attitude, while Tom Hanks guided them through choppy waters in “Greyhound,” and Apple Music fans searched for the “Dance Monkey” lyrics while watching their favorite artists livestream from their homes. There were podcasts like “SmartLess” and NPR’s “Code Switch” to binge, Apple Arcade games like “Sneaky Sasquatch” to play, and a new favorite Apple Fitness+ workout waiting to be discovered."
+        },
+        {
+          "id": 40,
+          "title": "Apple Music Model Silicone buds",
+          "category": "Entertainment",
+          "img": "https://m.media-amazon.com/images/I/51rPdMbm8LL._AC_UL480_FMwebp_QL65_.jpg",
+          "price": 1540,
+          "rating": 4.8,
+          "payment":true,
+          "quantity":1,
+          "cartStatus":false,
+          "description":"Apps like ShareTheMeal, FaceTime, and Wakeout! inspired people to give back, stay in touch with loved ones, and take care of themselves. Ted lassoed the hearts of Apple TV+ viewers with his unremitting positive attitude, while Tom Hanks guided them through choppy waters in “Greyhound,” and Apple Music fans searched for the “Dance Monkey” lyrics while watching their favorite artists livestream from their homes. There were podcasts like “SmartLess” and NPR’s “Code Switch” to binge, Apple Arcade games like “Sneaky Sasquatch” to play, and a new favorite Apple Fitness+ workout waiting to be discovered."
+        },
+        {
+          "id": 41,
+          "title": "Apple USB Studio Recording Microphone",
+          "category": "Entertainment",
+          "img": "https://m.media-amazon.com/images/I/61MF838vt5L._AC_UL480_FMwebp_QL65_.jpg",
+          "price": 190540,
+          "rating": 4.2,
+          "payment":false,
+          "quantity":1,
+          "cartStatus":false,
+          "description":"Apps like ShareTheMeal, FaceTime, and Wakeout! inspired people to give back, stay in touch with loved ones, and take care of themselves. Ted lassoed the hearts of Apple TV+ viewers with his unremitting positive attitude, while Tom Hanks guided them through choppy waters in “Greyhound,” and Apple Music fans searched for the “Dance Monkey” lyrics while watching their favorite artists livestream from their homes. There were podcasts like “SmartLess” and NPR’s “Code Switch” to binge, Apple Arcade games like “Sneaky Sasquatch” to play, and a new favorite Apple Fitness+ workout waiting to be discovered."
         }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
        ],
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
        "usersData":[
         {
           "name": "Kausik",
