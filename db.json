@@ -1247,63 +1247,7 @@
        ],
        "carts":[
 
-        {
-          "id": 48,
-          "title": "Apple Charger",
-          "category": "Accessorires",
-          "img": "https://m.media-amazon.com/images/I/51z-CilKrzL._AC_UY327_FMwebp_QL65_.jpg",
-          "price": 1340,
-          "rating": 4.1,
-          "quantity":1,
-          "cartStatus":true,
-          "description":"Well-designed cases, covers, screen overlays, watch bands, camera attachments, and Bluetooth accessories, complement Apple devices without interfering with their operation. As you create accessories for Apple products, follow the design guidelines and test your prototypes to make sure they meet the necessary requirements."
-        },
-        {
-          "id": 49,
-          "title": "Apple Lightning Headphone Jack Adapter",
-          "category": "Accessorires",
-          "img": "https://m.media-amazon.com/images/I/41C5VPNqasL._AC_UY327_FMwebp_QL65_.jpg",
-          "price": 10340,
-          "rating": 4.2,
-          "quantity":1,
-          "cartStatus":true,
-          "description":"Well-designed cases, covers, screen overlays, watch bands, camera attachments, and Bluetooth accessories, complement Apple devices without interfering with their operation. As you create accessories for Apple products, follow the design guidelines and test your prototypes to make sure they meet the necessary requirements."
-        },
-        {
-          "id": 50,
-          "title": "Apple Phone Pandit",
-          "category": "Accessorires",
-          "img": "https://m.media-amazon.com/images/I/41QwQK11UpL._AC_UY327_FMwebp_QL65_.jpg",
-          "price": 106342,
-          "rating": 4.6,
-          "quantity":1,
-          "cartStatus":true,
-          "description":"Well-designed cases, covers, screen overlays, watch bands, camera attachments, and Bluetooth accessories, complement Apple devices without interfering with their operation. As you create accessories for Apple products, follow the design guidelines and test your prototypes to make sure they meet the necessary requirements."
-        },
-        {
-          "id": 51,
-          "title": "Apple Phone pro",
-          "category": "Accessorires",
-          "img": "https://images-eu.ssl-images-amazon.com/images/I/815KnP2wjDS._AC_UL160_SR160,160_.jpg",
-          "price": 143342,
-          "rating": 4.8,
-          "quantity":1,
-          "cartStatus":true,
-          "description":"Well-designed cases, covers, screen overlays, watch bands, camera attachments, and Bluetooth accessories, complement Apple devices without interfering with their operation. As you create accessories for Apple products, follow the design guidelines and test your prototypes to make sure they meet the necessary requirements."
-        },
-        {
-          "id": 52,
-          "title": "Apple Phone pro",
-          "category": "Accessorires",
-          "img": "https://images-eu.ssl-images-amazon.com/images/I/815KnP2wjDS._AC_UL160_SR160,160_.jpg",
-          "price": 143342,
-          "rating": 4.8,
-          "quantity":1,
-          "cartStatus":false,
-          "description":"Well-designed cases, covers, screen overlays, watch bands, camera attachments, and Bluetooth accessories, complement Apple devices without interfering with their operation. As you create accessories for Apple products, follow the design guidelines and test your prototypes to make sure they meet the necessary requirements.",
-          "orders": [],
-          "carts":[]
-        }
+       
 
 
 
