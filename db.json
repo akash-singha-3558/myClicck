@@ -1646,7 +1646,7 @@
         "carts":[]
       }
       ,{
-        "id": 1,
+        "id": 5,
         "name": "Rajesh Thakur",
         "email": "rajesh@gmail.com",
         "password": "rajesh@123",
@@ -1658,7 +1658,7 @@
         
       },
       {
-        "id": 2,
+        "id": 6,
         "name": "Priya Kumari",
         "email": "priya@gmail.com",
         "password": "priya@123",
@@ -1669,7 +1669,7 @@
         "carts":[]
       },
       {
-        "id": 3,
+        "id": 7,
         "name": "Himanshu",
         "email": "himansu@gmail.com",
         "password": "himanshu@123",
@@ -1696,7 +1696,12 @@
           "gender": "Male",
           "img":"https://avatars.githubusercontent.com/u/112812835?v=4"
         }
-      ]
+      ],
+      "practiceRegister":[],
+      "practiceDetails":[]
+      
+
+      
     
     
 }
