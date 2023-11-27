@@ -1679,15 +1679,9 @@
         "orders": [],
         "carts":[]
       }  
-       ]
-
-
-
-
-
-
-
-       ,"adminMacMatch": [
+       ],
+       "eventApp":[],
+       "adminMacMatch": [
         {
           "name": "Admin",
           "password": "admin",
